@@ -1,6 +1,5 @@
 algoritmo Trabalho_calango_definitvo;
   // Síntese
-//	Aluno: Ryan Bomfim Batista Riquelme - 222006427
 //  Objetivo: criar um cadastro com email e senha 
 //  Entrada : usuario e senha  
 // 	Meio:	: verificar se a senha e valida ( media ) e gerar um email ( do clg ) 
